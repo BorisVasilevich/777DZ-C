@@ -1,0 +1,15 @@
+C:\Users\boris\OneDrive\Рабочий стол\C#\home68\bin\Debug\net7.0\home68.exe
+C:\Users\boris\OneDrive\Рабочий стол\C#\home68\bin\Debug\net7.0\home68.deps.json
+C:\Users\boris\OneDrive\Рабочий стол\C#\home68\bin\Debug\net7.0\home68.runtimeconfig.json
+C:\Users\boris\OneDrive\Рабочий стол\C#\home68\bin\Debug\net7.0\home68.dll
+C:\Users\boris\OneDrive\Рабочий стол\C#\home68\bin\Debug\net7.0\home68.pdb
+C:\Users\boris\OneDrive\Рабочий стол\C#\home68\obj\Debug\net7.0\home68.csproj.AssemblyReference.cache
+C:\Users\boris\OneDrive\Рабочий стол\C#\home68\obj\Debug\net7.0\home68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boris\OneDrive\Рабочий стол\C#\home68\obj\Debug\net7.0\home68.AssemblyInfoInputs.cache
+C:\Users\boris\OneDrive\Рабочий стол\C#\home68\obj\Debug\net7.0\home68.AssemblyInfo.cs
+C:\Users\boris\OneDrive\Рабочий стол\C#\home68\obj\Debug\net7.0\home68.csproj.CoreCompileInputs.cache
+C:\Users\boris\OneDrive\Рабочий стол\C#\home68\obj\Debug\net7.0\home68.dll
+C:\Users\boris\OneDrive\Рабочий стол\C#\home68\obj\Debug\net7.0\refint\home68.dll
+C:\Users\boris\OneDrive\Рабочий стол\C#\home68\obj\Debug\net7.0\home68.pdb
+C:\Users\boris\OneDrive\Рабочий стол\C#\home68\obj\Debug\net7.0\home68.genruntimeconfig.cache
+C:\Users\boris\OneDrive\Рабочий стол\C#\home68\obj\Debug\net7.0\ref\home68.dll
